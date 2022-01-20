@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Heya; I am Witfy! I used to own on of the biggest guilds in Hypixel called "Cassia" (Aka. FLWR). I own a stupidly cool server which is really pog :o ! I really love genshin impact! My UID is 734893093. ADD ME ON SNAPCHAT OR BAD LUCK FOR 69 MINUTES! No cap!
         </p>
       </main>
 
